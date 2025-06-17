@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yourtechtribe-model-context-protocol-mcp-odoo-badge.png)](https://mseep.ai/app/yourtechtribe-model-context-protocol-mcp-odoo)
+
 # MCP-Odoo
 
 Model Context Protocol server for Odoo integration, allowing AI agents to access and manipulate Odoo data through a standardized interface.
